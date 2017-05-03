@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets/index.html
+- Leaflet Map https://Greenhawk10.github.io/child_inpatient_firearms/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1yRnPbHDksCaDrqTwmeXOT48rPKMJiW98RtciBrDU0u0/edit#gid=745832354
 
 ## Create your own
